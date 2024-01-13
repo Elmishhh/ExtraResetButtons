@@ -1,0 +1,5 @@
+C:\Users\agame\source\repos\Camera+\Camera+\obj\Release\ExtraResetButtons.csproj.AssemblyReference.cache
+C:\Users\agame\source\repos\Camera+\Camera+\obj\Release\ExtraResetButtons.csproj.CoreCompileInputs.cache
+C:\Users\agame\source\repos\Camera+\Camera+\obj\Release\ExtraResetButtons.csproj.CopyComplete
+C:\Users\agame\source\repos\Camera+\Output\ExtraResetButtons.dll
+C:\Users\agame\source\repos\Camera+\Camera+\obj\Release\ExtraResetButtons.dll

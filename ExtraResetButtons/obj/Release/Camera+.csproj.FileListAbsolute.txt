@@ -1,0 +1,5 @@
+C:\Users\agame\source\repos\Camera+\Output\Camera+.dll
+C:\Users\agame\source\repos\Camera+\Camera+\obj\Release\Camera+.csproj.AssemblyReference.cache
+C:\Users\agame\source\repos\Camera+\Camera+\obj\Release\Camera+.csproj.CoreCompileInputs.cache
+C:\Users\agame\source\repos\Camera+\Camera+\obj\Release\Camera+.csproj.CopyComplete
+C:\Users\agame\source\repos\Camera+\Camera+\obj\Release\Camera+.dll
